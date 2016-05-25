@@ -1,21 +1,24 @@
 body {
  background-image: url('../headerphoto.jpg');
- background-size: auto 590px;
+ background-size: cover;
  background-repeat:no-repeat;
  }
-#header{
- margin:150px auto 210px auto;
+#logo{
+ max-width:100%;
 }
-#bigheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 300%;
- }
-#lilheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 170%;
- }
+#header{
+ margin:200px auto 140px auto;
+}
+/*#bigheader{*/
+/*  color: #f1d83f;*/
+/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
+/*  font-size: 300%;*/
+/* }*/
+/*#lilheader{*/
+/*  color: #f1d83f;*/
+/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
+/*  font-size: 170%;*/
+/* }*/
  #singlebutton{
   color: #bad844;
   margin-top: 50px;
@@ -38,13 +41,13 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 .navbar-nav{
-    margin-left:8.3333% !important;
+    margin-left:16.6666% !important;
 }
 .opensign{
- background-color: #340707;
- padding-bottom: 40px;
- padding-top: 20px;
- color: #dab844;
+ background-color: #ffbe3d ;
+ padding-bottom: 20px;
+ padding-top: 10px;
+ color: #340707;
  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
  font-size: 300%;
 }
@@ -52,12 +55,11 @@ a:link, a:visited, a:hover, a:active {
  text-decoration: none;
 }
 h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
- color: #dab844;
+ color: #340707;
 }
 h3{
  font-size: 60%;
 }
-.navcustom{
- background-color: #340707;
- color: #dab844;
+.content{
+ background-color: #ffffff;
 }
