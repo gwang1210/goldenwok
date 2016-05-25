@@ -8,6 +8,7 @@ body {
 }
 #header{
  margin:200px auto 240px auto;
+ border: solid 10px #dab844;
 }
  #singlebutton{
   color: #bad844;
