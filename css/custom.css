@@ -58,10 +58,10 @@ h3{
 }
 .content{
  background-color: #ffffff;
+ margin-top:100px;
+
 }
 p{
  font-size:16px;
 }
-.heading{
- margin-top:100px;
-}
+
