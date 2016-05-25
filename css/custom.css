@@ -7,7 +7,7 @@ body {
  max-width:100%;
 }
 .spacer{
- height:200px;
+ padding:200px auto;
 }
 #header{
  margin:0px auto 240px auto;
