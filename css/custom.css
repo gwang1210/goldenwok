@@ -1,6 +1,7 @@
 body {
  background-image: url('../headerphoto.jpg');
  background-size:auto 700px;
+ background-repeat: no-repeat;
  }
 #logo{
  max-width:100%;
