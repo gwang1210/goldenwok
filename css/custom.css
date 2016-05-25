@@ -1,65 +1,65 @@
-/*body {*/
-/* background-image: url('../headerphoto.jpg');*/
-/* background-size: cover;*/
-/* background-repeat:no-repeat;*/
-/* }*/
-/*#logo{*/
-/* max-width:100%;*/
-/*}*/
-/*#header{*/
-/* margin:200px auto 140px auto;*/
-/*}*/
-/*#bigheader{*/
-/*  color: #f1d83f;*/
-/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
-/*  font-size: 300%;*/
-/* }*/
-/*#lilheader{*/
-/*  color: #f1d83f;*/
-/*  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
-/*  font-size: 170%;*/
-/* }*/
-/* #singlebutton{*/
-/*  color: #bad844;*/
-/*  margin-top: 50px;*/
-/*  margin-bottom: 10px;*/
-/* }*/
-/*.btn-custom {*/
-/*  background-color: hsl(40, 100%, 62%) !important;*/
-/*  background-repeat: repeat-x;*/
-/*  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffbe3d", endColorstr="#ffbe3d");*/
-/*  background-image: -khtml-gradient(linear, left top, left bottom, from(#ffbe3d), to(#ffbe3d));*/
-/*  background-image: -moz-linear-gradient(top, #ffbe3d, #ffbe3d);*/
-/*  background-image: -ms-linear-gradient(top, #ffbe3d, #ffbe3d);*/
-/*  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffbe3d), color-stop(100%, #ffbe3d));*/
-/*  background-image: -webkit-linear-gradient(top, #ffbe3d, #ffbe3d);*/
-/*  background-image: -o-linear-gradient(top, #ffbe3d, #ffbe3d);*/
-/*  background-image: linear-gradient(#ffbe3d, #ffbe3d);*/
-/*  border-color: #ffbe3d #ffbe3d hsl(40, 100%, 62%);*/
-/*  color: #333 !important;*/
-/*  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.00);*/
-/*  -webkit-font-smoothing: antialiased;*/
-/*}*/
-/*.navbar-nav{*/
-/*    margin-left:16.6666% !important;*/
-/*}*/
-/*.opensign{*/
-/* background-color: #ffbe3d ;*/
-/* padding-bottom: 20px;*/
-/* padding-top: 10px;*/
-/* color: #340707;*/
-/* font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
-/* font-size: 300%;*/
-/*}*/
-/*a:link, a:visited, a:hover, a:active {*/
-/* text-decoration: none;*/
-/*}*/
-/*h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {*/
-/* color: #340707;*/
-/*}*/
-/*h3{*/
-/* font-size: 60%;*/
-/*}*/
-/*.content{*/
-/* background-color: #ffffff;*/
-/*}*/
+body {
+ background-image: url('../headerphoto.jpg');
+ background-size: cover;
+ background-repeat:no-repeat;
+ }
+#logo{
+ max-width:100%;
+}
+#header{
+ margin:200px auto 140px auto;
+}
+#bigheader{
+  color: #f1d83f;
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+  font-size: 300%;
+ }
+#lilheader{
+  color: #f1d83f;
+  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+  font-size: 170%;
+ }
+ #singlebutton{
+  color: #bad844;
+  margin-top: 50px;
+  margin-bottom: 10px;
+ }
+.btn-custom {
+  background-color: hsl(40, 100%, 62%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffbe3d", endColorstr="#ffbe3d");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#ffbe3d), to(#ffbe3d));
+  background-image: -moz-linear-gradient(top, #ffbe3d, #ffbe3d);
+  background-image: -ms-linear-gradient(top, #ffbe3d, #ffbe3d);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffbe3d), color-stop(100%, #ffbe3d));
+  background-image: -webkit-linear-gradient(top, #ffbe3d, #ffbe3d);
+  background-image: -o-linear-gradient(top, #ffbe3d, #ffbe3d);
+  background-image: linear-gradient(#ffbe3d, #ffbe3d);
+  border-color: #ffbe3d #ffbe3d hsl(40, 100%, 62%);
+  color: #333 !important;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.00);
+  -webkit-font-smoothing: antialiased;
+}
+.navbar-nav{
+    margin-left:16.6666% !important;
+}
+.opensign{
+ background-color: #ffbe3d ;
+ padding-bottom: 20px;
+ padding-top: 10px;
+ color: #340707;
+ font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+ font-size: 300%;
+}
+a:link, a:visited, a:hover, a:active {
+ text-decoration: none;
+}
+h3 a:link,h3 a:visited,h3 a:hover,h3 a:active {
+ color: #340707;
+}
+h3{
+ font-size: 60%;
+}
+.content{
+ background-color: #ffffff;
+}
