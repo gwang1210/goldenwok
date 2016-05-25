@@ -59,7 +59,7 @@ a:link, a:visited, a:hover, a:active {
 .content{
  background-color: #ffffff;
  margin-top:120px;
- padding-bottom: 120px;
+ padding-bottom: 30px;
 }
 p{
  font-size:16px;
@@ -69,7 +69,7 @@ p{
  margin-bottom: 30px;
 }
 #callbutton{
- margin-top: 120px;
+ margin-top: 240px;
  margin-bottom: 120px;
  background-color: transparent;
 }
