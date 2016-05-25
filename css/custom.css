@@ -6,8 +6,11 @@
 #logo{
  max-width:100%;
 }
+.header{
+  padding:200px auto 240px auto;
+}
 #header{
- margin:200px auto 240px auto;
+ /*margin:200px auto 240px auto;*/
  background-image: url('../headerphoto.jpg');
  background-size:cover;
  background-repeat:no-repeat;
