@@ -3,6 +3,7 @@ body {
  background-size:auto 600px;
  background-repeat: no-repeat;
  background-position: center top;
+ background-attachment: fixed;
  }
 #logo{
  max-width:100%;
