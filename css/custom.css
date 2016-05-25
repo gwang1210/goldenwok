@@ -12,7 +12,7 @@ img{
  max-width: 100%;
 }
 #header{
- margin:200px auto 120px auto;
+ margin:200px auto 110px auto;
  border-top: solid 10px #dab844;
  border-bottom: solid 10px #dab844;
 
@@ -61,7 +61,7 @@ a:link, a:visited, a:hover, a:active {
 /*}*/
 .content{
  background-color: #ffffff;
- margin-top:120px;
+ margin-top:110px;
  padding-bottom: 30px;
 }
 p{
@@ -72,8 +72,8 @@ p{
  margin-bottom: 30px;
 }
 #callbutton{
- margin-top: 120px;
- margin-bottom: 120px;
+ margin-top: 110px;
+ margin-bottom: 110px;
  background-color: transparent;
  padding-bottom: 10px;
  padding-top: 10px;
