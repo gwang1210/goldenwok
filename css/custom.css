@@ -2,6 +2,7 @@ body {
  background-image: url('../headerphoto.jpg');
  background-size:auto 500px;
  background-repeat: no-repeat;
+ background-position: center;
  }
 #logo{
  max-width:100%;
