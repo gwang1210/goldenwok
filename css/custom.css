@@ -12,16 +12,6 @@
  background-size:cover;
  background-repeat:no-repeat;
 }
-#bigheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 300%;
- }
-#lilheader{
-  color: #f1d83f;
-  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
-  font-size: 170%;
- }
  #singlebutton{
   color: #bad844;
   margin-top: 50px;
