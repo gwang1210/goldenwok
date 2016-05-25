@@ -8,6 +8,9 @@ body {
 #logo{
  max-width:100%;
 }
+img{
+ max-width: 100%;
+}
 #header{
  margin:200px auto 120px auto;
  border-top: solid 10px #dab844;
