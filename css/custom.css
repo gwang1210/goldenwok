@@ -79,3 +79,9 @@ p{
  padding-bottom: 10px;
  padding-top: 10px;
 }
+.mono {
+ font-family: "Andale Mono", AndaleMono, monospace;
+}
+.smallhead{
+ font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
