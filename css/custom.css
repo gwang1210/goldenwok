@@ -112,3 +112,6 @@ padding-top: 80px;
 #label{
  font-weight: normal;
 }
+form{
+ font-family: "Andale Mono", AndaleMono, monospace;
+}
