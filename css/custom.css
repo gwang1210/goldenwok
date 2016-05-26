@@ -15,6 +15,9 @@ body {
 img{
  max-width: 100%;
 }
+.image{
+ width: 100%;
+}
 #header{
  margin:200px auto 110px auto;
  border-top: solid 10px #dab844;
