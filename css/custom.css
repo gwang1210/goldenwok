@@ -115,3 +115,6 @@ padding-top: 80px;
 .formstuff{
  font-family: "Andale Mono", AndaleMono, monospace;
 }
+#customerName{
+ margin-bottom:15px;
+}
