@@ -1,3 +1,6 @@
+*{
+ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;;
+}
 body {
  background-image: url('../headerphoto.jpg');
  background-size:auto 700px;
