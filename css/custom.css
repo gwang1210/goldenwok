@@ -3,6 +3,9 @@
  /*font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;*/
  font-size: 18px;
 }
+.mission {
+ font-family: 24px;
+}
 body {
  background-image: url('../headerphoto.jpg');
  background-size:auto 705px;
