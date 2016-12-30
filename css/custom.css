@@ -14,7 +14,7 @@ body {
  background-attachment: fixed;
  }
 #logo{
- max-width:100%;
+ width:80%;
 }
 img{
  max-width: 100%;
