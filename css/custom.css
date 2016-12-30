@@ -21,6 +21,7 @@ img{
 }
 .image{
  width: 100%;
+ padding-top: 5px;
 }
 #header{
  margin:200px auto 110px auto;
