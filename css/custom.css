@@ -104,6 +104,7 @@ p{
 }
 .smallhead{
  font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+ padding-left: 10px;
 }
 #footer{
 background-color: #fff;
