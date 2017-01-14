@@ -6,11 +6,10 @@
 .mission {
  font-size: 19px;
 }
-/* body { */
-html{
- background-image: url('../headerphoto.jpg');
+body {
+background-image: url('../headerphoto.jpg');
 /*  background-size:auto 705px; */
- background-size: cover;
+ background-size: contain;
  background-repeat: no-repeat;
  background-position: center top;
  background-attachment: fixed;
