@@ -9,12 +9,10 @@
 body {
  background-image: url('../headerphoto.jpg');
  background-size:auto 705px;
- background-repeat: no-repeat;
+ background-repeat: repeat-y;
  background-position: center top;
  background-attachment: fixed;
- -webkit-background-size: auto 705px;
--moz-background-size: auto 705px;
--o-background-size: auto 705px;
+
  }
 #logo{
  width:95%;
