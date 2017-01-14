@@ -9,7 +9,7 @@
 body {
  background-image: url('../headerphoto.jpg');
 /*  background-size:auto 705px; */
- background-size: cover
+ background-size: cover;
  background-repeat: repeat-y;
  background-position: center top;
  background-attachment: fixed;
