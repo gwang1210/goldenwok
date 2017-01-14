@@ -8,8 +8,7 @@
 }
 body {
 background-image: url('../headerphoto.jpg');
-/*  background-size:auto 705px; */
- background-size: contain;
+ background-size:auto 705px;
  background-repeat: no-repeat;
  background-position: center top;
  background-attachment: fixed;
