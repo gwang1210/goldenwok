@@ -6,7 +6,8 @@
 .mission {
  font-size: 19px;
 }
-body {
+/* body { */
+html{
  background-image: url('../headerphoto.jpg');
 /*  background-size:auto 705px; */
  background-size: cover;
