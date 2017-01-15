@@ -71,39 +71,7 @@
           <div class="row"> 
             <!--opening statement-->
             <div class=" col-md-7 col-md-offset-1 col-sm-offset-1 col-sm-10 hidden-xs">
-              
-<!--               start image gallery -->
-              <div class="w3-content w3-display-container">
-  <img class="mySlides center-block image gallery" src="http://placehold.it/700x430" style="width:100%">
-  <img class="mySlides center-block image gallery" src="http://placehold.it/700x430" style="width:100%">
-  <img class="mySlides center-block image gallery" src="http://placehold.it/700x430" style="width:100%">
-  <img class="mySlides center-block image gallery" src="http://placehold.it/700x430" style="width:100%">
-
-  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
-  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-     x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-<!--               end image gallery -->
-              
+              <img class="center-block image gallery" src="http://placehold.it/700x430">
               <hr>
               <p class = "mission" align="justify">Here at the Golden Wok, we are proud to serve you healthy and quality Chinese food.
               Our food is low-fat, less oily, and sans MSG. Our Chef uses the freshest meats, vegetables, and seafood. Our mission statement: great food at a fair price!
