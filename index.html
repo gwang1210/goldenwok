@@ -12,6 +12,7 @@
     <link href="css/bootstrap-theme.min.css" rel="stylesheet">
     
     <link rel="stylesheet" type="text/css" href="css/custom.css" media="screen">
+    <link rel="stylesheet" href="css/slideshow.cc">
   </head>
   
   <body>
@@ -71,7 +72,38 @@
           <div class="row"> 
             <!--opening statement-->
             <div class=" col-md-7 col-md-offset-1 col-sm-offset-1 col-sm-10 hidden-xs">
+              
+<!--               image gallery start -->
               <img class="center-block image gallery" src="http://placehold.it/700x430">
+                   <div class="bss-slides num1" tabindex="1" autofocus="autofocus">
+                        <figure>
+                          <img src="http://placehold.it/700x430" width="100%" /><figcaption>"Medium"</figcaption> 
+                        </figure>
+                        <figure>
+                          <img src="http://placehold.it/700x431" width="100%" /><figcaption>"Colorado"</figcaption> 
+                        </figure>
+                        <figure>
+                          <img src="http://placehold.it/700x432" width="100%" /><figcaption>"Early Morning at the Monte Vista Wildlife Refuge, Colorado"</figcaption> 
+                        </figure>
+                        <figure>
+                          <img src="http://placehold.it/700x433" width="100%" /><figcaption>"colorado colors"</figcaption> 
+                        </figure>
+                    </div> <!-- // bss-slides -->
+              <script src="demo/js/hammer.min.js"></script><!-- for swipe support on touch interfaces -->
+              <script src="js/better-simple-slideshow.min.js"></script>
+              <script>
+              var opts = {
+                  auto : {
+                      speed : 3500, 
+                      pauseOnHover : true
+                  },
+                  fullScreen : false, 
+                  swipe : true
+              };
+              makeBSS('.num1', opts);
+              </script>
+<!--               end image gallery -->
+              
               <hr>
               <p class = "mission" align="justify">Here at the Golden Wok, we are proud to serve you healthy and quality Chinese food.
               Our food is low-fat, less oily, and sans MSG. Our Chef uses the freshest meats, vegetables, and seafood. Our mission statement: great food at a fair price!
