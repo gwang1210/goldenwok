@@ -56,6 +56,11 @@ img{
     margin-left:8.3333% !important;
     margin-right:8.3333% !important;
 }
+
+.navbar-nav>li{
+ padding-right:30px
+}
+
 .opensign{
  /*background-color: #ffffff;*/
  padding-bottom: 10px;
